@@ -16,6 +16,10 @@ package main
 
 import "fmt"
 
+func init() {
+	fmt.Println("I run before main")
+}
+
 func main() {
 	fmt.Println("Hello Terra!")
 }
