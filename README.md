@@ -8,6 +8,6 @@ This project now has a lil golang app included in it. To get it running:
 
 - Install golang (1.16 or higher is a good choice)
 
-In the root, run `go run main.go`
+In the project root, run `go run main.go`
 
 If everything is successful, it will say `Hello Terra!`
