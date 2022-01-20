@@ -11,3 +11,5 @@ This project now has a lil golang app included in it. To get it running:
 In the project root, run `go run main.go`
 
 If everything is successful, it will say `Hello Terra!`
+
+Hi
